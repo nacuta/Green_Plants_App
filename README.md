@@ -15,5 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Text](screenshots\Screenshot_1613801424.png "Indoor Plants Page")
-![Text](screenshots\Screenshot_1613801417.png?raw=true "Pot Flowers Page")
+![Screenshot](https://github.com/nacuta/Green_Plants_App/blob/master/screenshots/Screenshot_1613801417.png?raw=true "Indoor Plants Page")
+![Screenshot](screenshots\Screenshot_1613801417.png?raw=true "Pot Flowers Page")
