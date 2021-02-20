@@ -1,6 +1,6 @@
-# test_app_1
+# Green Plants Sidebar navigation App
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
