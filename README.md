@@ -1,6 +1,6 @@
-# test_app_1
+# Green Plants Sidebar navigation App
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
@@ -17,4 +17,3 @@ samples, guidance on mobile development, and a full API reference.
 
 ![Text](screenshots\Screenshot_1613801424.png "Indoor Plants Page")
 ![Text](screenshots\Screenshot_1613801417.png?raw=true "Pot Flowers Page")
-
